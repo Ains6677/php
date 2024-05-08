@@ -1,0 +1,32 @@
+{
+	"folders": [
+		{
+			"path": "../php-pract"
+		},
+		{
+			"path": "../admin"
+		},
+		{
+			"path": "../application"
+		},
+		{
+			"path": "../assets"
+		},
+		{
+			"path": "../auth"
+		},
+		{
+			"path": "../function"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../profile"
+		},
+		{
+			"path": "../register"
+		}
+	],
+	"settings": {}
+}
